@@ -1,0 +1,4 @@
+Country,Original_ADF_pvalue,Original_KPSS_pvalue,Original_Stationary,Diff1_ADF_pvalue,Diff1_KPSS_pvalue,Diff1_Stationary,Recommended_d
+AT,1.5248955982509088e-29,0.01,False,0.0,0.1,True,1
+BE,2.4145632608573503e-27,0.01,False,0.0,0.1,True,1
+BG,2.7288196950379052e-09,0.01,False,0.0,0.1,True,1
