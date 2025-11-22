@@ -1,0 +1,62 @@
+{
+  "AT": {
+    "LSTM": {
+      "num_parameters": 208984,
+      "training_time_seconds": 6.65103554725647,
+      "final_epoch": 21,
+      "best_dev_loss": 0.049809131771326065
+    },
+    "GRU": {
+      "num_parameters": 159192,
+      "training_time_seconds": 8.85813570022583,
+      "final_epoch": 43,
+      "best_dev_loss": 0.03375961817800999
+    },
+    "Classic_RNN": {
+      "num_parameters": 59608,
+      "training_time_seconds": 3.807033061981201,
+      "final_epoch": 22,
+      "best_dev_loss": 0.04467705450952053
+    }
+  },
+  "BE": {
+    "LSTM": {
+      "num_parameters": 208984,
+      "training_time_seconds": 6.581808567047119,
+      "final_epoch": 22,
+      "best_dev_loss": 0.10328277200460434
+    },
+    "GRU": {
+      "num_parameters": 159192,
+      "training_time_seconds": 10.390943050384521,
+      "final_epoch": 49,
+      "best_dev_loss": 0.08354890160262585
+    },
+    "Classic_RNN": {
+      "num_parameters": 59608,
+      "training_time_seconds": 3.2386085987091064,
+      "final_epoch": 18,
+      "best_dev_loss": 0.17605987563729286
+    }
+  },
+  "BG": {
+    "LSTM": {
+      "num_parameters": 208984,
+      "training_time_seconds": 3.9781837463378906,
+      "final_epoch": 13,
+      "best_dev_loss": 0.08941799681633711
+    },
+    "GRU": {
+      "num_parameters": 159192,
+      "training_time_seconds": 3.179908275604248,
+      "final_epoch": 15,
+      "best_dev_loss": 0.08134124521166086
+    },
+    "Classic_RNN": {
+      "num_parameters": 59608,
+      "training_time_seconds": 2.162832260131836,
+      "final_epoch": 12,
+      "best_dev_loss": 0.09058046340942383
+    }
+  }
+}

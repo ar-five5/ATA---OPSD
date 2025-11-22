@@ -1,0 +1,35 @@
+{
+  "dataset_stats": {
+    "total_samples": 457,
+    "train_samples": 319,
+    "test_samples": 138,
+    "positive_rate_%": 0.44,
+    "n_features": 27
+  },
+  "logistic_regression": {
+    "PR_AUC": 1.0,
+    "F1_at_P0.80": 1.0,
+    "Precision_at_threshold": 1.0,
+    "Recall_at_threshold": 1.0,
+    "Threshold": 0.0101
+  },
+  "lightgbm": {
+    "PR_AUC": 1.0,
+    "F1_at_P0.80": 1.0,
+    "Precision_at_threshold": 1.0,
+    "Recall_at_threshold": 1.0,
+    "Threshold": 0.0101
+  },
+  "top_features": {
+    "current_z_score": 137,
+    "forecast_error_pct": 75,
+    "z_resid_lag_1": 74,
+    "current_z_score_abs": 39,
+    "z_resid_lag_24": 36,
+    "z_resid_lag_12": 32,
+    "cusum_plus": 28,
+    "z_resid_lag_2": 19,
+    "residual_lag_1": 19,
+    "residual_lag_2": 6
+  }
+}
